@@ -1,4 +1,4 @@
-from circleci/golang:1.17
+from cimg/go:1.18
 
 run sudo apt-get clean all
 run sudo apt-get update

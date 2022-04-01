@@ -1,4 +1,4 @@
-t = simonmittag/wrk:go1.17
+t = simonmittag/wrk:go1.18
 
 build:
 	  docker build . -t $(t)
