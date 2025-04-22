@@ -1,4 +1,4 @@
-t = simonmittag/wrk:go1.21
+t = simonmittag/wrk:go1.24
 
 build:
 	  docker run -it --rm --privileged tonistiigi/binfmt --install all
