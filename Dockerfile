@@ -1,4 +1,4 @@
-from cimg/go:1.21
+from cimg/go:1.24
 
 run sudo apt-get clean all
 run sudo apt-get update
